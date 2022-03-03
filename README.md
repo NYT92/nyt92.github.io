@@ -1,2 +1,2 @@
-# nyt92.github.io
+# NYT92
 website of nyt92
